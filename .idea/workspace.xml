@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="144b154d-68d0-47ac-8c7d-3ea2e02de7f9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+    <list default="true" id="144b154d-68d0-47ac-8c7d-3ea2e02de7f9" name="Changes" comment="Recursion list tiles">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,8 +23,12 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
+  &quot;history&quot;: [
+    {
+      &quot;assignee&quot;: &quot;Ketan-33&quot;
+    }
+  ],
   &quot;lastFilter&quot;: {
-    &quot;state&quot;: &quot;OPEN&quot;,
     &quot;assignee&quot;: &quot;Ketan-33&quot;
   }
 }</component>
@@ -40,26 +42,37 @@
   &quot;associatedIndex&quot;: 1
 }</component>
   <component name="ProjectId" id="2qfTjSXgICELRX4a8ceupn1s7dI" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.BinarySearch.executor": "Run",
     "Application.Ceiling.executor": "Run",
     "Application.CeilingOfNumber.executor": "Run",
     "Application.FloorOfNumber.executor": "Run",
+    "Application.Leetcode915.executor": "Run",
+    "Application.ListTiles.executor": "Run",
+    "Application.LongestCommonSubseq.executor": "Run",
     "Application.Main.executor": "Run",
+    "Application.MaxProfit.executor": "Run",
+    "Application.ReverseVowel.executor": "Run",
+    "Application.RowColMatrix.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/College/Project-1",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -80,11 +93,97 @@
       <option name="presentableId" value="Default" />
       <updated>1735052765839</updated>
       <workItem from="1735052766926" duration="1172000" />
-      <workItem from="1735499788351" duration="1677000" />
+      <workItem from="1735499788351" duration="2452000" />
+      <workItem from="1736442139459" duration="1727000" />
+      <workItem from="1736531135408" duration="1167000" />
+      <workItem from="1738340652493" duration="230000" />
+      <workItem from="1738401593070" duration="149000" />
+      <workItem from="1738598071816" duration="401000" />
+      <workItem from="1738598498414" duration="1201000" />
+      <workItem from="1738688396567" duration="1723000" />
+      <workItem from="1738902879670" duration="91000" />
+      <workItem from="1739802468154" duration="860000" />
+      <workItem from="1741274186176" duration="3763000" />
+      <workItem from="1741322776588" duration="44000" />
     </task>
+    <task id="LOCAL-00001" summary="binary search">
+      <option name="closed" value="true" />
+      <created>1735504530816</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1735504530816</updated>
+    </task>
+    <task id="LOCAL-00002" summary="binary search">
+      <option name="closed" value="true" />
+      <created>1736442424652</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1736442424652</updated>
+    </task>
+    <task id="LOCAL-00003" summary="binary search in RowColMatrix">
+      <option name="closed" value="true" />
+      <created>1736442595534</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1736442595534</updated>
+    </task>
+    <task id="LOCAL-00004" summary="floor ceil using binary search">
+      <option name="closed" value="true" />
+      <created>1736442659894</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1736442659894</updated>
+    </task>
+    <task id="LOCAL-00005" summary="partitionDisjoint leetcode915">
+      <option name="closed" value="true" />
+      <created>1736536365615</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1736536365615</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Two Pointers easy">
+      <option name="closed" value="true" />
+      <created>1738688479381</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1738688479381</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Two Pointers medium">
+      <option name="closed" value="true" />
+      <created>1738690537914</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1738690537914</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Recursion list tiles">
+      <option name="closed" value="true" />
+      <created>1739805944124</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1739805944125</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="binary search" />
+    <MESSAGE value="binary search in RowColMatrix" />
+    <MESSAGE value="floor ceil using binary search" />
+    <MESSAGE value="partitionDisjoint leetcode915" />
+    <MESSAGE value="Two Pointers easy" />
+    <MESSAGE value="Two Pointers medium" />
+    <MESSAGE value="Recursion list tiles" />
+    <option name="LAST_COMMIT_MESSAGE" value="Recursion list tiles" />
   </component>
 </project>
