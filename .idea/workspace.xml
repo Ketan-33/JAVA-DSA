@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="144b154d-68d0-47ac-8c7d-3ea2e02de7f9" name="Changes" comment="Minimum Equal Sum of Two Arrays After Replacing Zeros" />
+    <list default="true" id="144b154d-68d0-47ac-8c7d-3ea2e02de7f9" name="Changes" comment="config files" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -103,7 +103,7 @@
       <workItem from="1739802468154" duration="860000" />
       <workItem from="1741274186176" duration="3763000" />
       <workItem from="1741322776588" duration="44000" />
-      <workItem from="1746896733178" duration="475000" />
+      <workItem from="1746896733178" duration="1125000" />
     </task>
     <task id="LOCAL-00001" summary="binary search">
       <option name="closed" value="true" />
@@ -201,7 +201,15 @@
       <option name="project" value="LOCAL" />
       <updated>1746896965556</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="config files">
+      <option name="closed" value="true" />
+      <created>1746897239158</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1746897239158</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -219,6 +227,7 @@
     <MESSAGE value="Valid palindrome" />
     <MESSAGE value="LCS" />
     <MESSAGE value="Minimum Equal Sum of Two Arrays After Replacing Zeros" />
-    <option name="LAST_COMMIT_MESSAGE" value="Minimum Equal Sum of Two Arrays After Replacing Zeros" />
+    <MESSAGE value="config files" />
+    <option name="LAST_COMMIT_MESSAGE" value="config files" />
   </component>
 </project>
