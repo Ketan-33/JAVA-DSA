@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="144b154d-68d0-47ac-8c7d-3ea2e02de7f9" name="Changes" comment="config files" />
+    <list default="true" id="144b154d-68d0-47ac-8c7d-3ea2e02de7f9" name="Changes" comment="Cyclic sort">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -47,33 +49,39 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.BinarySearch.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Ceiling.executor&quot;: &quot;Run&quot;,
-    &quot;Application.CeilingOfNumber.executor&quot;: &quot;Run&quot;,
-    &quot;Application.FloorOfNumber.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Leetcode915.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ListTiles.executor&quot;: &quot;Run&quot;,
-    &quot;Application.LongestCommonSubseq.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MaxProfit.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ReverseVowel.executor&quot;: &quot;Run&quot;,
-    &quot;Application.RowColMatrix.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/College/Project-1&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.BinarySearch.executor": "Run",
+    "Application.Ceiling.executor": "Run",
+    "Application.CeilingOfNumber.executor": "Run",
+    "Application.FloorOfNumber.executor": "Run",
+    "Application.Leetcode915.executor": "Run",
+    "Application.ListTiles.executor": "Run",
+    "Application.LongestCommonSubseq.executor": "Run",
+    "Application.Main.executor": "Run",
+    "Application.MaxProfit.executor": "Run",
+    "Application.ReverseVowel.executor": "Run",
+    "Application.RowColMatrix.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/College/JAVA_DSA/src/Sorting",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\College\JAVA_DSA\src\Sorting" />
+      <recent name="C:\College\JAVA_DSA\src\LinkedList" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -104,6 +112,8 @@
       <workItem from="1741274186176" duration="3763000" />
       <workItem from="1741322776588" duration="44000" />
       <workItem from="1746896733178" duration="1125000" />
+      <workItem from="1747145550102" duration="1001000" />
+      <workItem from="1747498008537" duration="685000" />
     </task>
     <task id="LOCAL-00001" summary="binary search">
       <option name="closed" value="true" />
@@ -209,7 +219,63 @@
       <option name="project" value="LOCAL" />
       <updated>1746897239158</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="Linked List">
+      <option name="closed" value="true" />
+      <created>1747145824784</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1747145824784</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Doubly Linked List">
+      <option name="closed" value="true" />
+      <created>1747145845670</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1747145845670</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Circular Linked List">
+      <option name="closed" value="true" />
+      <created>1747145868627</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1747145868627</updated>
+    </task>
+    <task id="LOCAL-00017" summary="Merge Sort">
+      <option name="closed" value="true" />
+      <created>1747145885658</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1747145885658</updated>
+    </task>
+    <task id="LOCAL-00018" summary="Interview ques">
+      <option name="closed" value="true" />
+      <created>1747145912415</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1747145912415</updated>
+    </task>
+    <task id="LOCAL-00019" summary="Sorting">
+      <option name="closed" value="true" />
+      <created>1747498485418</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1747498485418</updated>
+    </task>
+    <task id="LOCAL-00020" summary="Cyclic sort">
+      <option name="closed" value="true" />
+      <created>1747498575885</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1747498575885</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -228,6 +294,13 @@
     <MESSAGE value="LCS" />
     <MESSAGE value="Minimum Equal Sum of Two Arrays After Replacing Zeros" />
     <MESSAGE value="config files" />
-    <option name="LAST_COMMIT_MESSAGE" value="config files" />
+    <MESSAGE value="Linked List" />
+    <MESSAGE value="Doubly Linked List" />
+    <MESSAGE value="Circular Linked List" />
+    <MESSAGE value="Merge Sort" />
+    <MESSAGE value="Interview ques" />
+    <MESSAGE value="Sorting" />
+    <MESSAGE value="Cyclic sort" />
+    <option name="LAST_COMMIT_MESSAGE" value="Cyclic sort" />
   </component>
 </project>
