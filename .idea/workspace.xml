@@ -4,8 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="144b154d-68d0-47ac-8c7d-3ea2e02de7f9" name="Changes" comment="Cyclic sort">
+    <list default="true" id="144b154d-68d0-47ac-8c7d-3ea2e02de7f9" name="Changes" comment="Set Mismatch">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/StackNQueque/CustomQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/StackNQueque/CustomQueue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/StackNQueque/CustomStack.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/StackNQueque/CustomStack.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/StackNQueque/DynamicQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/StackNQueque/DynamicQueue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/StackNQueque/DynamicStack.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/StackNQueque/DynamicStack.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/StackNQueque/InBuiltExamples.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/StackNQueque/InBuiltExamples.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/StackNQueque/QueueMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/StackNQueque/QueueMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/StackNQueque/StackException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/StackNQueque/StackException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/StackNQueque/StackMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/StackNQueque/StackMain.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,7 +74,7 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/College/JAVA_DSA/src/Sorting",
+    "last_opened_file_path": "C:/College/JAVA_DSA/src/StackNQueque",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -78,6 +86,7 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\College\JAVA_DSA\src\StackNQueque" />
       <recent name="C:\College\JAVA_DSA\src\Sorting" />
       <recent name="C:\College\JAVA_DSA\src\LinkedList" />
     </key>
@@ -113,7 +122,8 @@
       <workItem from="1741322776588" duration="44000" />
       <workItem from="1746896733178" duration="1125000" />
       <workItem from="1747145550102" duration="1001000" />
-      <workItem from="1747498008537" duration="685000" />
+      <workItem from="1747498008537" duration="1234000" />
+      <workItem from="1748109044065" duration="333000" />
     </task>
     <task id="LOCAL-00001" summary="binary search">
       <option name="closed" value="true" />
@@ -275,11 +285,54 @@
       <option name="project" value="LOCAL" />
       <updated>1747498575885</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="Missing number">
+      <option name="closed" value="true" />
+      <created>1747498806221</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1747498806221</updated>
+    </task>
+    <task id="LOCAL-00022" summary="Missing positive number">
+      <option name="closed" value="true" />
+      <created>1747498951553</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1747498951553</updated>
+    </task>
+    <task id="LOCAL-00023" summary="Duplicates">
+      <option name="closed" value="true" />
+      <created>1747498966780</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1747498966780</updated>
+    </task>
+    <task id="LOCAL-00024" summary="Set Mismatch">
+      <option name="closed" value="true" />
+      <created>1747498981156</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1747498981156</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="binary search" />
@@ -301,6 +354,10 @@
     <MESSAGE value="Interview ques" />
     <MESSAGE value="Sorting" />
     <MESSAGE value="Cyclic sort" />
-    <option name="LAST_COMMIT_MESSAGE" value="Cyclic sort" />
+    <MESSAGE value="Missing number" />
+    <MESSAGE value="Missing positive number" />
+    <MESSAGE value="Duplicates" />
+    <MESSAGE value="Set Mismatch" />
+    <option name="LAST_COMMIT_MESSAGE" value="Set Mismatch" />
   </component>
 </project>
