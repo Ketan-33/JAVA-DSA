@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="144b154d-68d0-47ac-8c7d-3ea2e02de7f9" name="Changes" comment="Digit Sum">
+    <list default="true" id="144b154d-68d0-47ac-8c7d-3ea2e02de7f9" name="Changes" comment="Subset">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -32,12 +32,22 @@
     &quot;assignee&quot;: &quot;Ketan-33&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings">{
-  &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/Ketan-33/JAVA-DSA.git&quot;,
-    &quot;accountId&quot;: &quot;8442e03a-f888-46d6-8d07-3c4f29404d11&quot;
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/Ketan-33/JAVA-DSA.git",
+    "accountId": "8442e03a-f888-46d6-8d07-3c4f29404d11"
+  },
+  "recentNewPullRequestHead": {
+    "server": {
+      "useHttp": false,
+      "host": "github.com",
+      "port": null,
+      "suffix": null
+    },
+    "owner": "Ketan-33",
+    "repository": "JAVA-DSA"
   }
-}</component>
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 1
 }</component>
@@ -49,33 +59,33 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.BinarySearch.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Ceiling.executor&quot;: &quot;Run&quot;,
-    &quot;Application.CeilingOfNumber.executor&quot;: &quot;Run&quot;,
-    &quot;Application.FloorOfNumber.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Leetcode915.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ListTiles.executor&quot;: &quot;Run&quot;,
-    &quot;Application.LongestCommonSubseq.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MaxProfit.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ReverseVowel.executor&quot;: &quot;Run&quot;,
-    &quot;Application.RowColMatrix.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/College/JAVA_DSA/src/Recursion&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.BinarySearch.executor": "Run",
+    "Application.Ceiling.executor": "Run",
+    "Application.CeilingOfNumber.executor": "Run",
+    "Application.FloorOfNumber.executor": "Run",
+    "Application.Leetcode915.executor": "Run",
+    "Application.ListTiles.executor": "Run",
+    "Application.LongestCommonSubseq.executor": "Run",
+    "Application.Main.executor": "Run",
+    "Application.MaxProfit.executor": "Run",
+    "Application.ReverseVowel.executor": "Run",
+    "Application.RowColMatrix.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "string",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/College/JAVA_DSA/src/Recursion",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\College\JAVA_DSA\src\Recursion" />
@@ -120,46 +130,7 @@
       <workItem from="1748109044065" duration="1103000" />
       <workItem from="1748589851572" duration="1143000" />
       <workItem from="1748704145373" duration="1370000" />
-    </task>
-    <task id="LOCAL-00001" summary="binary search">
-      <option name="closed" value="true" />
-      <created>1735504530816</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1735504530816</updated>
-    </task>
-    <task id="LOCAL-00002" summary="binary search">
-      <option name="closed" value="true" />
-      <created>1736442424652</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1736442424652</updated>
-    </task>
-    <task id="LOCAL-00003" summary="binary search in RowColMatrix">
-      <option name="closed" value="true" />
-      <created>1736442595534</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1736442595534</updated>
-    </task>
-    <task id="LOCAL-00004" summary="floor ceil using binary search">
-      <option name="closed" value="true" />
-      <created>1736442659894</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1736442659894</updated>
-    </task>
-    <task id="LOCAL-00005" summary="partitionDisjoint leetcode915">
-      <option name="closed" value="true" />
-      <created>1736536365615</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1736536365615</updated>
+      <workItem from="1749044405616" duration="2359000" />
     </task>
     <task id="LOCAL-00006" summary="Two Pointers easy">
       <option name="closed" value="true" />
@@ -473,7 +444,87 @@
       <option name="project" value="LOCAL" />
       <updated>1748704979024</updated>
     </task>
-    <option name="localTasksCounter" value="45" />
+    <task id="LOCAL-00045" summary="configuration file">
+      <option name="closed" value="true" />
+      <created>1749044523134</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1749044523134</updated>
+    </task>
+    <task id="LOCAL-00046" summary="Merge sort">
+      <option name="closed" value="true" />
+      <created>1749044706698</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1749044706698</updated>
+    </task>
+    <task id="LOCAL-00047" summary="Quick sort">
+      <option name="closed" value="true" />
+      <created>1749044726792</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1749044726792</updated>
+    </task>
+    <task id="LOCAL-00048" summary="Ascii">
+      <option name="closed" value="true" />
+      <created>1749044881334</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1749044881334</updated>
+    </task>
+    <task id="LOCAL-00049" summary="Permutation">
+      <option name="closed" value="true" />
+      <created>1749044977321</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1749044977321</updated>
+    </task>
+    <task id="LOCAL-00050" summary="Dice problem">
+      <option name="closed" value="true" />
+      <created>1749044995711</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1749044995712</updated>
+    </task>
+    <task id="LOCAL-00051" summary="Stream">
+      <option name="closed" value="true" />
+      <created>1749045160000</created>
+      <option name="number" value="00051" />
+      <option name="presentableId" value="LOCAL-00051" />
+      <option name="project" value="LOCAL" />
+      <updated>1749045160001</updated>
+    </task>
+    <task id="LOCAL-00052" summary="Phone pad problem">
+      <option name="closed" value="true" />
+      <created>1749045181338</created>
+      <option name="number" value="00052" />
+      <option name="presentableId" value="LOCAL-00052" />
+      <option name="project" value="LOCAL" />
+      <updated>1749045181338</updated>
+    </task>
+    <task id="LOCAL-00053" summary="subsequence">
+      <option name="closed" value="true" />
+      <created>1749045957522</created>
+      <option name="number" value="00053" />
+      <option name="presentableId" value="LOCAL-00053" />
+      <option name="project" value="LOCAL" />
+      <updated>1749045957522</updated>
+    </task>
+    <task id="LOCAL-00054" summary="Subset">
+      <option name="closed" value="true" />
+      <created>1749045982615</created>
+      <option name="number" value="00054" />
+      <option name="presentableId" value="LOCAL-00054" />
+      <option name="project" value="LOCAL" />
+      <updated>1749045982615</updated>
+    </task>
+    <option name="localTasksCounter" value="55" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -491,16 +542,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Cyclic sort" />
-    <MESSAGE value="Missing number" />
-    <MESSAGE value="Missing positive number" />
-    <MESSAGE value="Duplicates" />
-    <MESSAGE value="Set Mismatch" />
-    <MESSAGE value="Stack" />
-    <MESSAGE value="Stack exception" />
-    <MESSAGE value="Dynamic Stack" />
-    <MESSAGE value="Custom Queque" />
-    <MESSAGE value="Queque" />
     <MESSAGE value="Dynamic Queque" />
     <MESSAGE value="Circular Queque" />
     <MESSAGE value="Patterns" />
@@ -516,6 +557,16 @@
     <MESSAGE value="Count zeroes" />
     <MESSAGE value="Digit Product" />
     <MESSAGE value="Digit Sum" />
-    <option name="LAST_COMMIT_MESSAGE" value="Digit Sum" />
+    <MESSAGE value="configuration file" />
+    <MESSAGE value="Merge sort" />
+    <MESSAGE value="Quick sort" />
+    <MESSAGE value="Ascii" />
+    <MESSAGE value="Permutation" />
+    <MESSAGE value="Dice problem" />
+    <MESSAGE value="Stream" />
+    <MESSAGE value="Phone pad problem" />
+    <MESSAGE value="subsequence" />
+    <MESSAGE value="Subset" />
+    <option name="LAST_COMMIT_MESSAGE" value="Subset" />
   </component>
 </project>
