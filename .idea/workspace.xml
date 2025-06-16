@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="144b154d-68d0-47ac-8c7d-3ea2e02de7f9" name="Changes" comment="N knights">
+    <list default="true" id="144b154d-68d0-47ac-8c7d-3ea2e02de7f9" name="Changes" comment="Sudoku solver">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -64,33 +64,33 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.BinarySearch.executor": "Run",
-    "Application.Ceiling.executor": "Run",
-    "Application.CeilingOfNumber.executor": "Run",
-    "Application.FloorOfNumber.executor": "Run",
-    "Application.Leetcode915.executor": "Run",
-    "Application.ListTiles.executor": "Run",
-    "Application.LongestCommonSubseq.executor": "Run",
-    "Application.Main.executor": "Run",
-    "Application.MaxProfit.executor": "Run",
-    "Application.ReverseVowel.executor": "Run",
-    "Application.RowColMatrix.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/College/JAVA_DSA/src/Recursion",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "preferences.pluginManager",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.BinarySearch.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Ceiling.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CeilingOfNumber.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FloorOfNumber.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Leetcode915.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ListTiles.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LongestCommonSubseq.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MaxProfit.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ReverseVowel.executor&quot;: &quot;Run&quot;,
+    &quot;Application.RowColMatrix.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/College/JAVA_DSA/src/Recursion&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\College\JAVA_DSA\src\Recursion" />
@@ -136,38 +136,7 @@
       <workItem from="1748589851572" duration="1143000" />
       <workItem from="1748704145373" duration="1370000" />
       <workItem from="1749044405616" duration="2359000" />
-    </task>
-    <task id="LOCAL-00008" summary="Recursion list tiles">
-      <option name="closed" value="true" />
-      <created>1739805944124</created>
-      <option name="number" value="00008" />
-      <option name="presentableId" value="LOCAL-00008" />
-      <option name="project" value="LOCAL" />
-      <updated>1739805944125</updated>
-    </task>
-    <task id="LOCAL-00009" summary="Question Bank">
-      <option name="closed" value="true" />
-      <created>1746896785560</created>
-      <option name="number" value="00009" />
-      <option name="presentableId" value="LOCAL-00009" />
-      <option name="project" value="LOCAL" />
-      <updated>1746896785560</updated>
-    </task>
-    <task id="LOCAL-00010" summary="Valid palindrome">
-      <option name="closed" value="true" />
-      <created>1746896798943</created>
-      <option name="number" value="00010" />
-      <option name="presentableId" value="LOCAL-00010" />
-      <option name="project" value="LOCAL" />
-      <updated>1746896798943</updated>
-    </task>
-    <task id="LOCAL-00011" summary="LCS">
-      <option name="closed" value="true" />
-      <created>1746896820745</created>
-      <option name="number" value="00011" />
-      <option name="presentableId" value="LOCAL-00011" />
-      <option name="project" value="LOCAL" />
-      <updated>1746896820745</updated>
+      <workItem from="1749831422282" duration="1030000" />
     </task>
     <task id="LOCAL-00012" summary="Minimum Equal Sum of Two Arrays After Replacing Zeros">
       <option name="closed" value="true" />
@@ -529,7 +498,39 @@
       <option name="project" value="LOCAL" />
       <updated>1749375227183</updated>
     </task>
-    <option name="localTasksCounter" value="57" />
+    <task id="LOCAL-00057" summary="config">
+      <option name="closed" value="true" />
+      <created>1749831724958</created>
+      <option name="number" value="00057" />
+      <option name="presentableId" value="LOCAL-00057" />
+      <option name="project" value="LOCAL" />
+      <updated>1749831724959</updated>
+    </task>
+    <task id="LOCAL-00058" summary="All paths">
+      <option name="closed" value="true" />
+      <created>1749831740589</created>
+      <option name="number" value="00058" />
+      <option name="presentableId" value="LOCAL-00058" />
+      <option name="project" value="LOCAL" />
+      <updated>1749831740589</updated>
+    </task>
+    <task id="LOCAL-00059" summary="Maze">
+      <option name="closed" value="true" />
+      <created>1749831753270</created>
+      <option name="number" value="00059" />
+      <option name="presentableId" value="LOCAL-00059" />
+      <option name="project" value="LOCAL" />
+      <updated>1749831753271</updated>
+    </task>
+    <task id="LOCAL-00060" summary="Sudoku solver">
+      <option name="closed" value="true" />
+      <created>1749831778320</created>
+      <option name="number" value="00060" />
+      <option name="presentableId" value="LOCAL-00060" />
+      <option name="project" value="LOCAL" />
+      <updated>1749831778320</updated>
+    </task>
+    <option name="localTasksCounter" value="61" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -547,10 +548,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Patterns" />
-    <MESSAGE value="Recursion" />
-    <MESSAGE value="Recursion - sorting" />
-    <MESSAGE value="RBS" />
     <MESSAGE value="Sum" />
     <MESSAGE value="Steps" />
     <MESSAGE value="N to 1" />
@@ -572,6 +569,10 @@
     <MESSAGE value="Subset" />
     <MESSAGE value="N queens" />
     <MESSAGE value="N knights" />
-    <option name="LAST_COMMIT_MESSAGE" value="N knights" />
+    <MESSAGE value="config" />
+    <MESSAGE value="All paths" />
+    <MESSAGE value="Maze" />
+    <MESSAGE value="Sudoku solver" />
+    <option name="LAST_COMMIT_MESSAGE" value="Sudoku solver" />
   </component>
 </project>
