@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="144b154d-68d0-47ac-8c7d-3ea2e02de7f9" name="Changes" comment="RangeXOR" />
+    <list default="true" id="144b154d-68d0-47ac-8c7d-3ea2e02de7f9" name="Changes" comment="generics example">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -62,40 +64,40 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.BinarySearch.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Ceiling.executor&quot;: &quot;Run&quot;,
-    &quot;Application.CeilingOfNumber.executor&quot;: &quot;Run&quot;,
-    &quot;Application.FloorOfNumber.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Leetcode915.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ListTiles.executor&quot;: &quot;Run&quot;,
-    &quot;Application.LongestCommonSubseq.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MaxProfit.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ReverseVowel.executor&quot;: &quot;Run&quot;,
-    &quot;Application.RowColMatrix.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/College/JAVA_DSA/src/Math&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.BinarySearch.executor": "Run",
+    "Application.Ceiling.executor": "Run",
+    "Application.CeilingOfNumber.executor": "Run",
+    "Application.FloorOfNumber.executor": "Run",
+    "Application.Leetcode915.executor": "Run",
+    "Application.ListTiles.executor": "Run",
+    "Application.LongestCommonSubseq.executor": "Run",
+    "Application.Main.executor": "Run",
+    "Application.MaxProfit.executor": "Run",
+    "Application.ReverseVowel.executor": "Run",
+    "Application.RowColMatrix.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/College/JAVA_DSA/src/OOP",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\College\JAVA_DSA\src\OOP" />
       <recent name="C:\College\JAVA_DSA\src\Math" />
       <recent name="C:\College\JAVA_DSA\src\Recursion" />
       <recent name="C:\College\JAVA_DSA\src\Patterns" />
       <recent name="C:\College\JAVA_DSA\src\StackNQueque" />
-      <recent name="C:\College\JAVA_DSA\src\Sorting" />
     </key>
   </component>
   <component name="SharedIndexes">
@@ -137,70 +139,7 @@
       <workItem from="1749831422282" duration="1030000" />
       <workItem from="1750090818228" duration="668000" />
       <workItem from="1750269780888" duration="457000" />
-    </task>
-    <task id="LOCAL-00023" summary="Duplicates">
-      <option name="closed" value="true" />
-      <created>1747498966780</created>
-      <option name="number" value="00023" />
-      <option name="presentableId" value="LOCAL-00023" />
-      <option name="project" value="LOCAL" />
-      <updated>1747498966780</updated>
-    </task>
-    <task id="LOCAL-00024" summary="Set Mismatch">
-      <option name="closed" value="true" />
-      <created>1747498981156</created>
-      <option name="number" value="00024" />
-      <option name="presentableId" value="LOCAL-00024" />
-      <option name="project" value="LOCAL" />
-      <updated>1747498981156</updated>
-    </task>
-    <task id="LOCAL-00025" summary="Stack">
-      <option name="closed" value="true" />
-      <created>1748109457631</created>
-      <option name="number" value="00025" />
-      <option name="presentableId" value="LOCAL-00025" />
-      <option name="project" value="LOCAL" />
-      <updated>1748109457631</updated>
-    </task>
-    <task id="LOCAL-00026" summary="Stack exception">
-      <option name="closed" value="true" />
-      <created>1748109478297</created>
-      <option name="number" value="00026" />
-      <option name="presentableId" value="LOCAL-00026" />
-      <option name="project" value="LOCAL" />
-      <updated>1748109478297</updated>
-    </task>
-    <task id="LOCAL-00027" summary="Dynamic Stack">
-      <option name="closed" value="true" />
-      <created>1748109500101</created>
-      <option name="number" value="00027" />
-      <option name="presentableId" value="LOCAL-00027" />
-      <option name="project" value="LOCAL" />
-      <updated>1748109500101</updated>
-    </task>
-    <task id="LOCAL-00028" summary="Custom Queque">
-      <option name="closed" value="true" />
-      <created>1748109514512</created>
-      <option name="number" value="00028" />
-      <option name="presentableId" value="LOCAL-00028" />
-      <option name="project" value="LOCAL" />
-      <updated>1748109514512</updated>
-    </task>
-    <task id="LOCAL-00029" summary="Queque">
-      <option name="closed" value="true" />
-      <created>1748109528185</created>
-      <option name="number" value="00029" />
-      <option name="presentableId" value="LOCAL-00029" />
-      <option name="project" value="LOCAL" />
-      <updated>1748109528185</updated>
-    </task>
-    <task id="LOCAL-00030" summary="Dynamic Queque">
-      <option name="closed" value="true" />
-      <created>1748109537721</created>
-      <option name="number" value="00030" />
-      <option name="presentableId" value="LOCAL-00030" />
-      <option name="project" value="LOCAL" />
-      <updated>1748109537721</updated>
+      <workItem from="1750701606004" duration="1106000" />
     </task>
     <task id="LOCAL-00031" summary="Circular Queque">
       <option name="closed" value="true" />
@@ -530,7 +469,71 @@
       <option name="project" value="LOCAL" />
       <updated>1750269826827</updated>
     </task>
-    <option name="localTasksCounter" value="72" />
+    <task id="LOCAL-00072" summary="config">
+      <option name="closed" value="true" />
+      <created>1750701809597</created>
+      <option name="number" value="00072" />
+      <option name="presentableId" value="LOCAL-00072" />
+      <option name="project" value="LOCAL" />
+      <updated>1750701809598</updated>
+    </task>
+    <task id="LOCAL-00073" summary="oop intro">
+      <option name="closed" value="true" />
+      <created>1750701855316</created>
+      <option name="number" value="00073" />
+      <option name="presentableId" value="LOCAL-00073" />
+      <option name="project" value="LOCAL" />
+      <updated>1750701855316</updated>
+    </task>
+    <task id="LOCAL-00074" summary="wrapper example">
+      <option name="closed" value="true" />
+      <created>1750701871458</created>
+      <option name="number" value="00074" />
+      <option name="presentableId" value="LOCAL-00074" />
+      <option name="project" value="LOCAL" />
+      <updated>1750701871458</updated>
+    </task>
+    <task id="LOCAL-00075" summary="singleton">
+      <option name="closed" value="true" />
+      <created>1750702013813</created>
+      <option name="number" value="00075" />
+      <option name="presentableId" value="LOCAL-00075" />
+      <option name="project" value="LOCAL" />
+      <updated>1750702013813</updated>
+    </task>
+    <task id="LOCAL-00076" summary="singleton">
+      <option name="closed" value="true" />
+      <created>1750702038609</created>
+      <option name="number" value="00076" />
+      <option name="presentableId" value="LOCAL-00076" />
+      <option name="project" value="LOCAL" />
+      <updated>1750702038609</updated>
+    </task>
+    <task id="LOCAL-00077" summary="singleton">
+      <option name="closed" value="true" />
+      <created>1750702044898</created>
+      <option name="number" value="00077" />
+      <option name="presentableId" value="LOCAL-00077" />
+      <option name="project" value="LOCAL" />
+      <updated>1750702044898</updated>
+    </task>
+    <task id="LOCAL-00078" summary="singleton">
+      <option name="closed" value="true" />
+      <created>1750702048495</created>
+      <option name="number" value="00078" />
+      <option name="presentableId" value="LOCAL-00078" />
+      <option name="project" value="LOCAL" />
+      <updated>1750702048495</updated>
+    </task>
+    <task id="LOCAL-00079" summary="generics example">
+      <option name="closed" value="true" />
+      <created>1750702124023</created>
+      <option name="number" value="00079" />
+      <option name="presentableId" value="LOCAL-00079" />
+      <option name="project" value="LOCAL" />
+      <updated>1750702124023</updated>
+    </task>
+    <option name="localTasksCounter" value="80" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -548,10 +551,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="configuration file" />
-    <MESSAGE value="Merge sort" />
-    <MESSAGE value="Quick sort" />
-    <MESSAGE value="Ascii" />
     <MESSAGE value="Permutation" />
     <MESSAGE value="Dice problem" />
     <MESSAGE value="Stream" />
@@ -570,9 +569,13 @@
     <MESSAGE value="find unique" />
     <MESSAGE value="flip image" />
     <MESSAGE value="magic number" />
-    <MESSAGE value="config" />
     <MESSAGE value="Set bits" />
     <MESSAGE value="RangeXOR" />
-    <option name="LAST_COMMIT_MESSAGE" value="RangeXOR" />
+    <MESSAGE value="config" />
+    <MESSAGE value="oop intro" />
+    <MESSAGE value="wrapper example" />
+    <MESSAGE value="singleton" />
+    <MESSAGE value="generics example" />
+    <option name="LAST_COMMIT_MESSAGE" value="generics example" />
   </component>
 </project>
