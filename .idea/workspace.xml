@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="144b154d-68d0-47ac-8c7d-3ea2e02de7f9" name="Changes" comment="cloning" />
+    <list default="true" id="144b154d-68d0-47ac-8c7d-3ea2e02de7f9" name="Changes" comment="interface">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -140,86 +142,7 @@
       <workItem from="1750701606004" duration="1106000" />
       <workItem from="1750756172046" duration="246000" />
       <workItem from="1750839841494" duration="516000" />
-    </task>
-    <task id="LOCAL-00046" summary="Merge sort">
-      <option name="closed" value="true" />
-      <created>1749044706698</created>
-      <option name="number" value="00046" />
-      <option name="presentableId" value="LOCAL-00046" />
-      <option name="project" value="LOCAL" />
-      <updated>1749044706698</updated>
-    </task>
-    <task id="LOCAL-00047" summary="Quick sort">
-      <option name="closed" value="true" />
-      <created>1749044726792</created>
-      <option name="number" value="00047" />
-      <option name="presentableId" value="LOCAL-00047" />
-      <option name="project" value="LOCAL" />
-      <updated>1749044726792</updated>
-    </task>
-    <task id="LOCAL-00048" summary="Ascii">
-      <option name="closed" value="true" />
-      <created>1749044881334</created>
-      <option name="number" value="00048" />
-      <option name="presentableId" value="LOCAL-00048" />
-      <option name="project" value="LOCAL" />
-      <updated>1749044881334</updated>
-    </task>
-    <task id="LOCAL-00049" summary="Permutation">
-      <option name="closed" value="true" />
-      <created>1749044977321</created>
-      <option name="number" value="00049" />
-      <option name="presentableId" value="LOCAL-00049" />
-      <option name="project" value="LOCAL" />
-      <updated>1749044977321</updated>
-    </task>
-    <task id="LOCAL-00050" summary="Dice problem">
-      <option name="closed" value="true" />
-      <created>1749044995711</created>
-      <option name="number" value="00050" />
-      <option name="presentableId" value="LOCAL-00050" />
-      <option name="project" value="LOCAL" />
-      <updated>1749044995712</updated>
-    </task>
-    <task id="LOCAL-00051" summary="Stream">
-      <option name="closed" value="true" />
-      <created>1749045160000</created>
-      <option name="number" value="00051" />
-      <option name="presentableId" value="LOCAL-00051" />
-      <option name="project" value="LOCAL" />
-      <updated>1749045160001</updated>
-    </task>
-    <task id="LOCAL-00052" summary="Phone pad problem">
-      <option name="closed" value="true" />
-      <created>1749045181338</created>
-      <option name="number" value="00052" />
-      <option name="presentableId" value="LOCAL-00052" />
-      <option name="project" value="LOCAL" />
-      <updated>1749045181338</updated>
-    </task>
-    <task id="LOCAL-00053" summary="subsequence">
-      <option name="closed" value="true" />
-      <created>1749045957522</created>
-      <option name="number" value="00053" />
-      <option name="presentableId" value="LOCAL-00053" />
-      <option name="project" value="LOCAL" />
-      <updated>1749045957522</updated>
-    </task>
-    <task id="LOCAL-00054" summary="Subset">
-      <option name="closed" value="true" />
-      <created>1749045982615</created>
-      <option name="number" value="00054" />
-      <option name="presentableId" value="LOCAL-00054" />
-      <option name="project" value="LOCAL" />
-      <updated>1749045982615</updated>
-    </task>
-    <task id="LOCAL-00055" summary="N queens">
-      <option name="closed" value="true" />
-      <created>1749375213048</created>
-      <option name="number" value="00055" />
-      <option name="presentableId" value="LOCAL-00055" />
-      <option name="project" value="LOCAL" />
-      <updated>1749375213049</updated>
+      <workItem from="1751275419327" duration="817000" />
     </task>
     <task id="LOCAL-00056" summary="N knights">
       <option name="closed" value="true" />
@@ -533,7 +456,87 @@
       <option name="project" value="LOCAL" />
       <updated>1750839946913</updated>
     </task>
-    <option name="localTasksCounter" value="95" />
+    <task id="LOCAL-00095" summary="config">
+      <option name="closed" value="true" />
+      <created>1751275900187</created>
+      <option name="number" value="00095" />
+      <option name="presentableId" value="LOCAL-00095" />
+      <option name="project" value="LOCAL" />
+      <updated>1751275900188</updated>
+    </task>
+    <task id="LOCAL-00096" summary="interface">
+      <option name="closed" value="true" />
+      <created>1751275915968</created>
+      <option name="number" value="00096" />
+      <option name="presentableId" value="LOCAL-00096" />
+      <option name="project" value="LOCAL" />
+      <updated>1751275915968</updated>
+    </task>
+    <task id="LOCAL-00097" summary="interface">
+      <option name="closed" value="true" />
+      <created>1751275924708</created>
+      <option name="number" value="00097" />
+      <option name="presentableId" value="LOCAL-00097" />
+      <option name="project" value="LOCAL" />
+      <updated>1751275924710</updated>
+    </task>
+    <task id="LOCAL-00098" summary="interface">
+      <option name="closed" value="true" />
+      <created>1751275932477</created>
+      <option name="number" value="00098" />
+      <option name="presentableId" value="LOCAL-00098" />
+      <option name="project" value="LOCAL" />
+      <updated>1751275932477</updated>
+    </task>
+    <task id="LOCAL-00099" summary="interface">
+      <option name="closed" value="true" />
+      <created>1751275983591</created>
+      <option name="number" value="00099" />
+      <option name="presentableId" value="LOCAL-00099" />
+      <option name="project" value="LOCAL" />
+      <updated>1751275983591</updated>
+    </task>
+    <task id="LOCAL-00100" summary="interface">
+      <option name="closed" value="true" />
+      <created>1751275990291</created>
+      <option name="number" value="00100" />
+      <option name="presentableId" value="LOCAL-00100" />
+      <option name="project" value="LOCAL" />
+      <updated>1751275990291</updated>
+    </task>
+    <task id="LOCAL-00101" summary="interface">
+      <option name="closed" value="true" />
+      <created>1751276005932</created>
+      <option name="number" value="00101" />
+      <option name="presentableId" value="LOCAL-00101" />
+      <option name="project" value="LOCAL" />
+      <updated>1751276005932</updated>
+    </task>
+    <task id="LOCAL-00102" summary="interface">
+      <option name="closed" value="true" />
+      <created>1751276013178</created>
+      <option name="number" value="00102" />
+      <option name="presentableId" value="LOCAL-00102" />
+      <option name="project" value="LOCAL" />
+      <updated>1751276013178</updated>
+    </task>
+    <task id="LOCAL-00103" summary="interface">
+      <option name="closed" value="true" />
+      <created>1751276021418</created>
+      <option name="number" value="00103" />
+      <option name="presentableId" value="LOCAL-00103" />
+      <option name="project" value="LOCAL" />
+      <updated>1751276021418</updated>
+    </task>
+    <task id="LOCAL-00104" summary="interface">
+      <option name="closed" value="true" />
+      <created>1751276031939</created>
+      <option name="number" value="00104" />
+      <option name="presentableId" value="LOCAL-00104" />
+      <option name="project" value="LOCAL" />
+      <updated>1751276031939</updated>
+    </task>
+    <option name="localTasksCounter" value="105" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -551,7 +554,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Subset" />
     <MESSAGE value="N queens" />
     <MESSAGE value="N knights" />
     <MESSAGE value="All paths" />
@@ -573,9 +575,10 @@
     <MESSAGE value="access" />
     <MESSAGE value="static example" />
     <MESSAGE value="enum example" />
-    <MESSAGE value="config" />
     <MESSAGE value="inheritance" />
     <MESSAGE value="cloning" />
-    <option name="LAST_COMMIT_MESSAGE" value="cloning" />
+    <MESSAGE value="config" />
+    <MESSAGE value="interface" />
+    <option name="LAST_COMMIT_MESSAGE" value="interface" />
   </component>
 </project>
