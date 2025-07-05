@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="144b154d-68d0-47ac-8c7d-3ea2e02de7f9" name="Changes" comment="interfaces" />
+    <list default="true" id="144b154d-68d0-47ac-8c7d-3ea2e02de7f9" name="Changes" comment="abstract classes" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -142,38 +142,7 @@
       <workItem from="1750839841494" duration="516000" />
       <workItem from="1751275419327" duration="817000" />
       <workItem from="1751381708682" duration="97000" />
-    </task>
-    <task id="LOCAL-00060" summary="Sudoku solver">
-      <option name="closed" value="true" />
-      <created>1749831778320</created>
-      <option name="number" value="00060" />
-      <option name="presentableId" value="LOCAL-00060" />
-      <option name="project" value="LOCAL" />
-      <updated>1749831778320</updated>
-    </task>
-    <task id="LOCAL-00061" summary="config">
-      <option name="closed" value="true" />
-      <created>1750090951708</created>
-      <option name="number" value="00061" />
-      <option name="presentableId" value="LOCAL-00061" />
-      <option name="project" value="LOCAL" />
-      <updated>1750090951710</updated>
-    </task>
-    <task id="LOCAL-00062" summary="no. of digit">
-      <option name="closed" value="true" />
-      <created>1750090972364</created>
-      <option name="number" value="00062" />
-      <option name="presentableId" value="LOCAL-00062" />
-      <option name="project" value="LOCAL" />
-      <updated>1750090972364</updated>
-    </task>
-    <task id="LOCAL-00063" summary="odd even">
-      <option name="closed" value="true" />
-      <created>1750090982589</created>
-      <option name="number" value="00063" />
-      <option name="presentableId" value="LOCAL-00063" />
-      <option name="project" value="LOCAL" />
-      <updated>1750090982589</updated>
+      <workItem from="1751532774854" duration="726000" />
     </task>
     <task id="LOCAL-00064" summary="power">
       <option name="closed" value="true" />
@@ -535,7 +504,39 @@
       <option name="project" value="LOCAL" />
       <updated>1751381783094</updated>
     </task>
-    <option name="localTasksCounter" value="109" />
+    <task id="LOCAL-00109" summary="config">
+      <option name="closed" value="true" />
+      <created>1751532856444</created>
+      <option name="number" value="00109" />
+      <option name="presentableId" value="LOCAL-00109" />
+      <option name="project" value="LOCAL" />
+      <updated>1751532856444</updated>
+    </task>
+    <task id="LOCAL-00110" summary="abstract classes">
+      <option name="closed" value="true" />
+      <created>1751532880166</created>
+      <option name="number" value="00110" />
+      <option name="presentableId" value="LOCAL-00110" />
+      <option name="project" value="LOCAL" />
+      <updated>1751532880166</updated>
+    </task>
+    <task id="LOCAL-00111" summary="abstract classes">
+      <option name="closed" value="true" />
+      <created>1751532884899</created>
+      <option name="number" value="00111" />
+      <option name="presentableId" value="LOCAL-00111" />
+      <option name="project" value="LOCAL" />
+      <updated>1751532884899</updated>
+    </task>
+    <task id="LOCAL-00112" summary="abstract classes">
+      <option name="closed" value="true" />
+      <created>1751533008043</created>
+      <option name="number" value="00112" />
+      <option name="presentableId" value="LOCAL-00112" />
+      <option name="project" value="LOCAL" />
+      <updated>1751533008043</updated>
+    </task>
+    <option name="localTasksCounter" value="113" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -553,7 +554,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="N knights" />
     <MESSAGE value="All paths" />
     <MESSAGE value="Maze" />
     <MESSAGE value="Sudoku solver" />
@@ -576,8 +576,9 @@
     <MESSAGE value="inheritance" />
     <MESSAGE value="cloning" />
     <MESSAGE value="interface" />
-    <MESSAGE value="config" />
     <MESSAGE value="interfaces" />
-    <option name="LAST_COMMIT_MESSAGE" value="interfaces" />
+    <MESSAGE value="config" />
+    <MESSAGE value="abstract classes" />
+    <option name="LAST_COMMIT_MESSAGE" value="abstract classes" />
   </component>
 </project>
